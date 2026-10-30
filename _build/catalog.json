@@ -1,5 +1,152 @@
 [
  {
+  "slug": "dead-mall-free-sample",
+  "title": "DEAD MALL – Free Sample (8 PSX Mall Models + PS1 Shader)",
+  "desc": "8 free PS1-style low-poly models from an abandoned mall (cart, mannequin, vending machine...) + PSX shaders for Godot 4.",
+  "price": "free",
+  "cover": "https://img.itch.zone/aW1nLzMxNTk2NjY2LnBuZw==/original/K1LM6m.png",
+  "tags": [
+   "3D",
+   "free",
+   "Godot",
+   "Horror",
+   "liminal",
+   "Low-poly",
+   "mall",
+   "ps1",
+   "PSX (PlayStation)",
+   "Retro"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTI2NzQwOC8zMTU5NjY4MS5wbmc=/original/ANOj6G.png"
+ },
+ {
+  "slug": "space-crew-aliens-free-sample",
+  "title": "Space Crew & Aliens – Free Sample [4 Animated Characters, 16x32]",
+  "desc": "4 free animated sci-fi characters for top-down games: captain, alien engineer, EVA astronaut and a slime. 16x32.",
+  "price": "free",
+  "cover": "https://img.itch.zone/aW1nLzMxNTk2NjQzLnBuZw==/original/afPkZD.png",
+  "tags": [
+   "Aliens",
+   "Characters",
+   "free",
+   "Godot",
+   "Pixel Art",
+   "RPG Maker",
+   "Sci-fi",
+   "Space",
+   "Sprites",
+   "Top-Down"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTI2NzQwMy8zMTU5NjY0OC5wbmc=/original/ues%2B2I.png"
+ },
+ {
+  "slug": "frostbrook-town-interiors-free-sample",
+  "title": "Frostbrook Town Interiors – Free Sample [16x16 Top-Down]",
+  "desc": "19 free cozy winter interior tiles: tavern bar, animated forge hearth, shop goods & chapel candles. 16/32/48 px.",
+  "price": "free",
+  "cover": "https://img.itch.zone/aW1nLzMxNTk2NTk5LnBuZw==/original/r8j91n.png",
+  "tags": [
+   "16x16",
+   "Cozy",
+   "Fantasy",
+   "free",
+   "interior",
+   "Pixel Art",
+   "RPG Maker",
+   "Tileset",
+   "Top-Down",
+   "winter"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTI2NzM5OC8zMTU5NjYxNy5wbmc=/original/YT7nRW.png"
+ },
+ {
+  "slug": "modern-gym-fitness-free-sample",
+  "title": "Modern Gym & Fitness – Free Sample [16x16 Top-Down, Animated]",
+  "desc": "19 free gym tiles & props for top-down 16x16 games: animated treadmill, exercise bike and heavy bag. 16/32/48 px.",
+  "price": "free",
+  "cover": "https://img.itch.zone/aW1nLzMxNTk2NTQxLnBuZw==/original/6v2ZxU.png",
+  "tags": [
+   "16x16",
+   "free",
+   "Godot",
+   "gym",
+   "Modern",
+   "Pixel Art",
+   "RPG Maker",
+   "tiled",
+   "Tileset",
+   "Top-Down"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTI2NzM5My8zMTU5NjU1Mi5wbmc=/original/%2BRUGYa.png"
+ },
+ {
+  "slug": "frostbrook-villagers",
+  "title": "Frostbrook Villagers – 37 Winter & Christmas Characters [16x32, Animated]",
+  "desc": "37 animated winter townsfolk, Santa, elves & a living snowman for top-down 16x16 games, plus a 92-layer character kit.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxNTk2NDgzLnBuZw==/original/mFv%2Bvf.png",
+  "tags": [
+   "16x16",
+   "Characters",
+   "Christmas",
+   "Cozy",
+   "Godot",
+   "Pixel Art",
+   "RPG Maker",
+   "Sprites",
+   "Top-Down",
+   "winter"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTI2NzM4Ni8zMTU5NjQ4Ni5wbmc=/original/UgpFGv.png"
+ },
+ {
+  "slug": "modern-town-vehicles-streets",
+  "title": "Modern Town Vehicles & Streets – Top-Down Cars, Roads & Traffic [16x16, Animated]",
+  "desc": "28 top-down vehicles in 4 views with animated wheels & lights, plus roads, sidewalks, traffic lights, signs. 16/32/48 px",
+  "price": "$5.99",
+  "cover": "https://img.itch.zone/aW1nLzMxNTk2NDQyLnBuZw==/original/5sh18u.png",
+  "tags": [
+   "16x16",
+   "cars",
+   "city",
+   "Godot",
+   "Modern",
+   "Pixel Art",
+   "RPG Maker",
+   "Tileset",
+   "Top-Down",
+   "Vehicles"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTI2NzM3Ny8zMTU5NjQ1MC5wbmc=/original/geUelm.png"
+ },
+ {
+  "slug": "psx-survival-horror-ui-kit-vol2",
+  "title": "PSX Survival Horror UI Kit Vol.2 – 3 Themes, Crafting, Shop, Boss HUD & 40 Icons",
+  "desc": "Expansion for the PSX horror UI kit: 3 new themes, crafting, trader, dialogue, boss HUD, 36 widgets, 40 icons.",
+  "price": "$5.99",
+  "cover": "https://img.itch.zone/aW1nLzMxNTk2MzU1LnBuZw==/original/NQX3R%2B.png",
+  "tags": [
+   "Godot",
+   "Graphical User Interface (GUI)",
+   "Horror",
+   "Low-poly",
+   "Pixel Art",
+   "ps1",
+   "PSX (PlayStation)",
+   "Retro",
+   "Survival Horror",
+   "User Interface (UI)"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTI2NzM1OS8zMTU5NjM2My5wbmc=/original/8dSWcH.png"
+ },
+ {
   "slug": "dead-mall-psx-abandoned-shopping-mall",
   "title": "DEAD MALL – PSX Abandoned Shopping Mall Asset Pack (LO-FI DREAD Vol.7)",
   "desc": "PS1-style dead 90s mall: 70 low-poly models, modular kit, neon signs + a walkable Godot 4 demo. GLB + OBJ.",

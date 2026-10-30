@@ -35,7 +35,7 @@ COLLECTIONS = [
                   'zona-86-psx-post-soviet-survival-horror-asset-pack', 'last-resort-psx-horror-weapons-items-ui-pack',
                   'psx-horror-textures', 'psx-survival-horror-ui-kit', 'psx-human-organs',
                   'shadow-systems-godot-4-survival-horror-systems-kit', 'lofi-dread-free-psx-horror-sampler',
-                  'psx-survival-horror-ui-kit-free-sample'],
+                  'psx-survival-horror-ui-kit-free-sample', 'psx-survival-horror-ui-kit-vol2', 'dead-mall-free-sample'],
         'faq': [
             ('Which engines do the PSX horror packs support?', 'Godot 4 gets a ready project with demo levels and the PSX shader. The GLB and OBJ models import into Unity, Unreal Engine 5 and Blender; textures are plain PNG atlases.'),
             ('Do the packs share the same scale and style?', 'Yes. All LO-FI DREAD packs use real-world metres, a 2 m modular grid and the same PS1 shader, so pieces from different packs fit together.'),
@@ -47,7 +47,7 @@ COLLECTIONS = [
         'name': 'Modern Town – Top-Down 16x16 Tilesets & Characters',
         'short': 'Modern Town',
         'title': 'Modern Top-Down 16x16 Pixel Art Tilesets for Godot, RPG Maker MZ, Unity & Tiled',
-        'meta': 'Modern top-down 16x16 pixel art tilesets: hospital, supermarket, subway, police station, airport, museum, science lab, space station, gym, plus animated 16x32 characters.',
+        'meta': 'Modern top-down 16x16 pixel art tilesets: hospital, supermarket, subway, police station, airport, museum, science lab, space station, gym, vehicles and streets, plus animated 16x32 characters.',
         'intro': ('Modern Town is a set of top-down (3/4 view) pixel art tilesets drawn on the same 16 px grid with the same outline, '
                   'palette and light direction. Every pack comes in 16, 32 and 48 px, with and without baked shadows, and ships Tiled '
                   '(.tsx/.tmx) files, Godot 4 TileSets, RPG Maker MZ sheets and single PNG sprites for Unity and GameMaker. '
@@ -55,7 +55,8 @@ COLLECTIONS = [
         'slugs': ['modern-hospital-clinic-tileset', 'modern-supermarket-tileset', 'subway-station-tileset', 'science-lab-tileset',
                   'modern-police-station-jail-tileset', 'modern-airport-terminal-tileset', 'modern-museum-gallery-tileset',
                   'modern-space-station-tileset', 'modern-gym-fitness-tileset', 'modern-town-characters',
-                  'space-crew-aliens-characters', 'modern-town-tileset-free-sample'],
+                  'space-crew-aliens-characters', 'modern-town-vehicles-streets', 'modern-town-tileset-free-sample',
+                  'modern-gym-fitness-free-sample', 'space-crew-aliens-free-sample'],
         'faq': [
             ('What tile size are the Modern Town tilesets?', 'They are drawn at 16x16 and exported at 16, 32 and 48 px with nearest-neighbour scaling, so they stay crisp. Use the 48 px sheets for RPG Maker MZ.'),
             ('Do they work in Godot 4 and Tiled?', 'Yes. Each pack has Godot 4 .tres TileSets, Tiled .tsx tilesets and sample .tmx maps, plus single PNG sprites for any other engine.'),
@@ -86,14 +87,14 @@ COLLECTIONS = [
         'name': 'Cozy & Fantasy Pixel Art',
         'short': 'Cozy & Fantasy',
         'title': 'Cozy & Fantasy Pixel Art: Winter Village Tilesets, Interiors, Spell VFX & Characters',
-        'meta': 'Cozy and fantasy pixel art for top-down and side-scrolling games: Frostbrook snow village tilesets and DLCs, bakery and school interiors, elemental spell VFX, caped fantasy heroes.',
+        'meta': 'Cozy and fantasy pixel art for top-down and side-scrolling games: Frostbrook snow village tilesets, DLCs and villagers, bakery and school interiors, elemental spell VFX, caped fantasy heroes.',
         'intro': ('Pixel art for cozy and fantasy games: the Frostbrook snow village with its Christmas and town-interiors DLCs, '
                   'a bakery café and a school interior set, elemental spell effects, caped fantasy heroes and more. '
                   'Tilesets ship in 16, 32 and 48 px with Tiled, Godot 4 and RPG Maker MZ files.'),
         'slugs': ['frostbrook-snow-village-tileset', 'frostbrook-christmas-dlc', 'frostbrook-town-interiors-dlc',
                   'bakery-cafe-interiors', 'pixel-school-interiors', 'human-organs-pixel-art', 'elemental-spells',
                   'dungeon-warriors', 'sleepless-girl', 'frostbrook-snow-village-free-sample', 'elemental-spells-free-sample',
-                  'dungeon-warriors-free-sample'],
+                  'dungeon-warriors-free-sample', 'frostbrook-villagers', 'frostbrook-town-interiors-free-sample'],
         'faq': [
             ('Do the Frostbrook DLCs need the base pack?', 'No. The Christmas DLC and the Town Interiors DLC work on their own, but they share the palette and grid of Frostbrook Snow Village so everything fits together.'),
             ('Which engines are supported?', 'Tilesets include Tiled, Godot 4 and RPG Maker MZ files; sprites and VFX are PNG sheets that work in Unity, GameMaker and any 2D engine.'),
