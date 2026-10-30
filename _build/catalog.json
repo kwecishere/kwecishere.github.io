@@ -1,0 +1,951 @@
+[
+ {
+  "slug": "dead-mall-psx-abandoned-shopping-mall",
+  "title": "DEAD MALL – PSX Abandoned Shopping Mall Asset Pack (LO-FI DREAD Vol.7)",
+  "desc": "PS1-style dead 90s mall: 70 low-poly models, modular kit, neon signs + a walkable Godot 4 demo. GLB + OBJ.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxNTczOTEyLnBuZw==/original/%2Fl2Trz.png",
+  "tags": [
+   "3D",
+   "Backrooms",
+   "Godot",
+   "Horror",
+   "Liminal space",
+   "Low-poly",
+   "ps1",
+   "PSX (PlayStation)"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTI2Mzk0NS8zMTU3Mzk0Ny5wbmc=/original/rDtGNo.png"
+ },
+ {
+  "slug": "space-crew-aliens-characters",
+  "title": "Space Crew & Aliens – 54 Top-Down Sci-Fi Characters [16x32, Animated]",
+  "desc": "Crew, spacesuits, 8 original alien species, androids + creatures. 16x32, walk/idle/sit in 4 dirs. Godot 4, RPG Maker MZ.",
+  "price": "$5.99",
+  "cover": "https://img.itch.zone/aW1nLzMxNTczODI0LnBuZw==/original/cOvL0J.png",
+  "tags": [
+   "Aliens",
+   "Characters",
+   "Godot",
+   "Pixel Art",
+   "RPG Maker",
+   "Sci-fi",
+   "Space",
+   "Sprites"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTI2MzkzMS8zMTU3MzgzMi5wbmc=/original/mOM1LP.png"
+ },
+ {
+  "slug": "modern-gym-fitness-tileset",
+  "title": "Modern Gym & Fitness – Top-Down Tileset [16x16, Animated]",
+  "desc": "Modern gym interior: weights, cardio, boxing ring, lockers, juice bar. 261 tiles, 32 animated. 16/32/48 px, Godot, MZ.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxNTczNzUyLnBuZw==/original/XZuMZo.png",
+  "tags": [
+   "16x16",
+   "Godot",
+   "interior",
+   "Modern",
+   "Pixel Art",
+   "RPG Maker",
+   "Tileset",
+   "Top-Down"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTI2MzkxOS8zMTU3Mzc1OC5wbmc=/original/YKVomP.png"
+ },
+ {
+  "slug": "frostbrook-town-interiors-dlc",
+  "title": "Frostbrook Town Interiors DLC – Tavern, Shops & Forge Tileset [16x16]",
+  "desc": "Snowy village interiors: tavern, shops, apothecary, forge, sauna, chapel. 16/32/48 px, Tiled, Godot 4, RPG Maker MZ.",
+  "price": "$3.99",
+  "cover": "https://img.itch.zone/aW1nLzMxNTczNjg0LnBuZw==/original/lg7rxq.png",
+  "tags": [
+   "16x16",
+   "Fantasy",
+   "Godot",
+   "interior",
+   "Medieval",
+   "Pixel Art",
+   "RPG Maker",
+   "tiled"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTI2MzkwNy8zMTU3MzcwOS5wbmc=/original/8OrpkZ.png"
+ },
+ {
+  "slug": "sector-7-psx-nuclear-backrooms-horror-asset-pack",
+  "title": "SECTOR 7 – PSX Nuclear Backrooms Asset Pack (LO-FI DREAD Vol.6)",
+  "desc": "Modular PS1-style nuclear backrooms: 66 models, glowing toxic water, reactor hall, walkable Godot 4 demo.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxNDUwNzUzLnBuZw==/original/GgjSaA.png",
+  "tags": [
+   "3D",
+   "Asset Pack",
+   "Backrooms",
+   "Godot",
+   "Horror",
+   "Liminal space",
+   "Low-poly",
+   "ps1"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTI0NTMzNC8zMTQ1MDc3MS5wbmc=/original/llO2vX.png"
+ },
+ {
+  "slug": "modern-space-station-tileset",
+  "title": "Modern Space Station – Top-Down Sci-Fi Tileset [16x16, Animated]",
+  "desc": "Sci-fi space station: 376 tiles & props, 89 animated, bridge to reactor + red alert set. 16/32/48 px, Godot, Tiled, MZ.",
+  "price": "$2.99",
+  "cover": "https://img.itch.zone/aW1nLzMxNDQ4NjAxLnBuZw==/original/7Soeav.png",
+  "tags": [
+   "16x16",
+   "Godot",
+   "interior",
+   "Pixel Art",
+   "RPG Maker",
+   "Sci-fi",
+   "Space",
+   "Tileset"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTI0NDk5Ni8zMTQ0ODYwNC5wbmc=/original/L2rU4c.png"
+ },
+ {
+  "slug": "all-in-one-bundle",
+  "title": "All-in-One Bundle – Every Chucky Assets Pack (37 Packs: Pixel Art Tilesets + PSX 3D)",
+  "desc": "All 37 Chucky Assets packs in one download ($177 value): pixel art tilesets, PSX horror, PSX world & vehicles.",
+  "price": "$19.99",
+  "cover": "https://img.itch.zone/aW1nLzMxNTgwNzk4LnBuZw==/original/OlFGYQ.png",
+  "tags": [
+   "Asset Pack",
+   "bundle",
+   "Godot",
+   "Horror",
+   "Low-poly",
+   "Pixel Art",
+   "PSX (PlayStation)",
+   "RPG Maker"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIzMTI2Ni8zMTU4MDgwMC5wbmc=/original/WundQM.png"
+ },
+ {
+  "slug": "modern-town-characters",
+  "title": "Modern Town Characters – 41 Top-Down NPCs + Character Creator [16x32, Animated]",
+  "desc": "41 animated 16x32 top-down NPCs + creator layers (skins, hair, 28 outfits). Godot 4, RPG Maker MZ, Unity. 4 directions.",
+  "price": "$2.50",
+  "cover": "https://img.itch.zone/aW1nLzMxMjg3OTY1LnBuZw==/original/oSz7v7.png",
+  "tags": [
+   "16x16",
+   "Characters",
+   "Godot",
+   "Modern",
+   "npc",
+   "Pixel Art",
+   "RPG Maker",
+   "Sprites"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIyMDQyOC8zMTI4Nzk1My5wbmc=/original/%2BI7RuF.png"
+ },
+ {
+  "slug": "frostbrook-snow-village-free-sample",
+  "title": "Frostbrook Snow Village – Free Sample [16x16 Top-Down]",
+  "desc": "Free 16x16 winter tiles: pine, snowman, campfire (animated), sled, cocoa stall, fence, snow and ice. 16/32/48 px.",
+  "price": "free",
+  "cover": "https://img.itch.zone/aW1nLzMxMjU1NzYyLnBuZw==/original/plq3OX.png",
+  "tags": [
+   "16x16",
+   "Christmas",
+   "free",
+   "Godot",
+   "Pixel Art",
+   "RPG Maker",
+   "snow",
+   "Tileset"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIxNTU0NC8zMTI1NTc0Ni5wbmc=/original/s2XRbP.png"
+ },
+ {
+  "slug": "modern-town-tileset-free-sample",
+  "title": "Modern Town Tileset – Free Sample [16x16 Top-Down]",
+  "desc": "Free 16x16 top-down modern tiles: hospital, supermarket and subway props, 2 animated. 16/32/48 px, shadow + shadowless.",
+  "price": "free",
+  "cover": "https://img.itch.zone/aW1nLzMxMjU1NzExLnBuZw==/original/ya1bfn.png",
+  "tags": [
+   "16x16",
+   "Asset Pack",
+   "free",
+   "Godot",
+   "Modern",
+   "Pixel Art",
+   "RPG Maker",
+   "Tileset"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIxNTU0MC8zMTI1NTcwNS5wbmc=/original/jMX%2B2H.png"
+ },
+ {
+  "slug": "modern-museum-gallery-tileset",
+  "title": "Modern Museum & Gallery – Top-Down Tileset [16x16, Heist-Ready]",
+  "desc": "16x16 museum tileset: dinosaur skeletons, display cases, paintings, statues, lasers, a vault. 400+ tiles, 16/32/48 px.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxMjU1Njc5LnBuZw==/original/0OOLvW.png",
+  "tags": [
+   "16x16",
+   "Godot",
+   "Heist",
+   "interior",
+   "Modern",
+   "museum",
+   "Pixel Art",
+   "RPG Maker"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIxNTUzMS8zMTI1NTY2MS5wbmc=/original/HuRqPO.png"
+ },
+ {
+  "slug": "modern-airport-terminal-tileset",
+  "title": "Modern Airport & Terminal – Top-Down Tileset [16x16, Animated]",
+  "desc": "16x16 airport tileset: check-in, security, gates, shops, runway, planes and ground vehicles. 500+ tiles, 16/32/48 px.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxMjU1NTk3LnBuZw==/original/KREwPK.png",
+  "tags": [
+   "16x16",
+   "aircraft",
+   "airport",
+   "Godot",
+   "Modern",
+   "Pixel Art",
+   "RPG Maker",
+   "Tileset"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIxNTUxNC8zMTI1NTU3OS5wbmc=/original/%2FJFxtT.png"
+ },
+ {
+  "slug": "modern-police-station-jail-tileset",
+  "title": "Modern Police Station & Jail – Top-Down Tileset [16x16, Animated]",
+  "desc": "16x16 police station & jail tileset: cells, interrogation, evidence, armory, patrol car. 300+ tiles, 16/32/48 px.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxMjU1MzU3LnBuZw==/original/00war9.png",
+  "tags": [
+   "16x16",
+   "Crime",
+   "Godot",
+   "Modern",
+   "Pixel Art",
+   "police",
+   "RPG Maker",
+   "Tileset"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIxNTQ2NC8zMTI1NTMyOS5wbmc=/original/xK7%2Bbg.png"
+ },
+ {
+  "slug": "psx-cars-free-sample",
+  "title": "PSX Cars – Free Sample (Low-Poly Sedan)",
+  "desc": "Free PS1-style low-poly sedan with separate wheel nodes for steering and spin. GLB + OBJ, Godot ready.",
+  "price": "free",
+  "cover": "https://img.itch.zone/aW1nLzMxMjM5MzMzLnBuZw==/original/ZTaZzo.png",
+  "tags": [
+   "3D",
+   "Asset Pack",
+   "car",
+   "free",
+   "Godot",
+   "Low-poly",
+   "ps1",
+   "PSX (PlayStation)"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIxMzI2My8zMTIzOTMxMi5wbmc=/original/q9Ej71.png"
+ },
+ {
+  "slug": "psx-farm-animals-free-sample",
+  "title": "PSX Farm Animals – Free Sample (Animated Chicken)",
+  "desc": "Free PS1-style animated chicken with walk, run, idle, peck and flap loops. GLB + OBJ, Godot ready.",
+  "price": "free",
+  "cover": "https://img.itch.zone/aW1nLzMxMjM5MjgxLnBuZw==/original/Ao8znb.png",
+  "tags": [
+   "3D",
+   "Animals",
+   "animated",
+   "farm",
+   "free",
+   "Godot",
+   "Low-poly",
+   "ps1"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIxMzI1Ny8zMTIzOTI3MC5wbmc=/original/hI4A8f.png"
+ },
+ {
+  "slug": "psx-farm-orchard-free-sample",
+  "title": "PSX Farm & Orchard – Free Sample (Apple, Orange, Fruit Crate)",
+  "desc": "Free PS1-style fruit: apple and orange, whole and cut in half, plus a crate of apples. GLB + OBJ.",
+  "price": "free",
+  "cover": "https://img.itch.zone/aW1nLzMxMjM5MjQ0LnBuZw==/original/YAMN3k.png",
+  "tags": [
+   "3D",
+   "Asset Pack",
+   "farm",
+   "free",
+   "fruit",
+   "Godot",
+   "Low-poly",
+   "ps1"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIxMzI1MC8zMTIzOTIxOS5wbmc=/original/uwSBvl.png"
+ },
+ {
+  "slug": "psx-christmas-village-free-sample",
+  "title": "PSX Christmas Village – Free Sample (Snowman, Lamp, Candy Cane)",
+  "desc": "Free PS1-style Christmas props: snowman, glowing street lamp and candy cane. GLB + OBJ, Godot ready.",
+  "price": "free",
+  "cover": "https://img.itch.zone/aW1nLzMxMjM5MTk2LnBuZw==/original/GBk%2BUf.png",
+  "tags": [
+   "3D",
+   "Asset Pack",
+   "Christmas",
+   "free",
+   "Godot",
+   "Low-poly",
+   "ps1",
+   "PSX (PlayStation)"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIxMzI0NS8zMTI0NDcyOC5wbmc=/original/2yyGNA.png"
+ },
+ {
+  "slug": "psx-nature-pack",
+  "title": "PSX Nature Pack – Trees in 4 Seasons, Rocks, Plants [Godot 4]",
+  "desc": "37 low-poly PS1 nature models: oaks in 4 seasons, birches, pines, bushes, rocks, flowers, ferns, logs.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxMjQ0ODA3LnBuZw==/original/Uig6dH.png",
+  "tags": [
+   "3D",
+   "Asset Pack",
+   "Forest",
+   "Godot",
+   "Low-poly",
+   "nature",
+   "ps1",
+   "PSX (PlayStation)"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIxMzQ0MS8zMTI0NDgyNS5wbmc=/original/ZS8pYz.png"
+ },
+ {
+  "slug": "psx-farm-animals",
+  "title": "PSX Farm Animals – Cow, Horse, Pig, Sheep, Chicken, Animated [Godot 4]",
+  "desc": "10 low-poly PS1 farm animals in 2 coats each, with walk, run, graze and call animations plus wander AI.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxMjMyMjg4LnBuZw==/original/wWsSRj.png",
+  "tags": [
+   "3D",
+   "Animals",
+   "animated",
+   "Asset Pack",
+   "farm",
+   "Godot",
+   "Low-poly",
+   "ps1"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIxMjE2MS8zMTIzMjI3Ni5wbmc=/original/hrjPhK.png"
+ },
+ {
+  "slug": "psx-farm-orchard",
+  "title": "PSX Farm & Orchard – Barn, Silo, Windpump, Fruit Trees [Godot 4]",
+  "desc": "Low-poly PS1 farm: barn, silo, spinning windpump, apple + orange trees, scarecrow, fruit stand, 16 fruits.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxMjI4MzQyLnBuZw==/original/1%2BovTt.png",
+  "tags": [
+   "3D",
+   "Asset Pack",
+   "barn",
+   "farm",
+   "fruit",
+   "Godot",
+   "Low-poly",
+   "ps1"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIxMTU0My8zMTIyODI1My5wbmc=/original/uoC1fc.png"
+ },
+ {
+  "slug": "psx-christmas-village",
+  "title": "PSX Christmas Village – Snowy Town Square, 15 Models [Godot 4]",
+  "desc": "Low-poly PS1 Christmas town: cottages, shops, market stalls, town tree, snowman, lamps. Glowing windows. GLB + OBJ.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxMjI4MTg0LnBuZw==/original/uMK8jh.png",
+  "tags": [
+   "3D",
+   "Asset Pack",
+   "Christmas",
+   "Godot",
+   "Low-poly",
+   "ps1",
+   "PSX (PlayStation)",
+   "Unity"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIxMTUzMi8zMTIyODE0Ni5wbmc=/original/636rMc.png"
+ },
+ {
+  "slug": "psx-fruit-blaster",
+  "title": "PSX Fruit Blaster",
+  "desc": "Shoot flying fruit with a pistol and a pump shotgun. Dodge the bombs. PS1-style arcade shooter, plays in your browser.",
+  "price": "free",
+  "cover": "https://img.itch.zone/aW1nLzMxMjExNzk4LnBuZw==/original/Q0oVwQ.png",
+  "tags": [
+   "Arcade",
+   "FPS",
+   "fruit",
+   "Low-poly",
+   "PSX (PlayStation)",
+   "Retro",
+   "Score Attack"
+  ],
+  "cls": "game",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIwOTI5MC8zMTIxMTc4MC5wbmc=/original/lAE6Uo.png"
+ },
+ {
+  "slug": "psx-santa-sleigh-flying-reindeer",
+  "title": "PSX Santa Sleigh – 4 Flying Reindeer + Santa, Animated, Drivable [Godot 4]",
+  "desc": "Low-poly PS1 Santa sleigh with 4 flying reindeer (2 coats) and Santa, baked animations incl. fly. GLB + OBJ.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxMjExNjg1LnBuZw==/original/pAExtO.png",
+  "tags": [
+   "3D",
+   "Animals",
+   "animated",
+   "Christmas",
+   "Godot",
+   "Low-poly",
+   "ps1",
+   "PSX (PlayStation)"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIwNTgzNS8zMTE4OTA3NC5wbmc=/original/zgksNl.png"
+ },
+ {
+  "slug": "psx-christmas-sled-team",
+  "title": "PSX Christmas Sled Team – Santa + Animated Huskies, Drivable [Godot 4]",
+  "desc": "Low-poly PS1 Santa + husky (3 coats) with baked animations, Christmas sled, gangline and snowy props. GLB + OBJ.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxMTg4MjY4LnBuZw==/original/PlVKCy.png",
+  "tags": [
+   "3D",
+   "Animals",
+   "animated",
+   "Christmas",
+   "Godot",
+   "Low-poly",
+   "ps1",
+   "PSX (PlayStation)"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIwNTQ4MS8zMTE4ODI2OS5wbmc=/original/52lK7w.png"
+ },
+ {
+  "slug": "psx-cars-low-poly-vehicle-pack",
+  "title": "PSX Cars – Low-Poly Vehicle Pack, 10 Retro Cars + Drivable Godot 4 Demo",
+  "desc": "10 clean PSX-style low-poly vehicles: GLB + OBJ, 64x64 texture, separate wheels, playable Godot 4 demo.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxMTgzNTM4LnBuZw==/original/Ts%2Bnc2.png",
+  "tags": [
+   "3D",
+   "Asset Pack",
+   "car",
+   "Godot",
+   "Low-poly",
+   "ps1",
+   "PSX (PlayStation)",
+   "Retro"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIwNDU3NS8zMTIzMzk4NS5wbmc=/original/2PjcQL.png"
+ },
+ {
+  "slug": "psx-80s-pickup-truck",
+  "title": "PSX 80s Pickup Truck – Drivable Low-Poly Vehicle, 3 Variants [Godot 4]",
+  "desc": "PS1-style 80s pickup truck: faded, clean and wreck variants, ready VehicleBody3D rig and drivable Godot 4 demo.",
+  "price": "$3.99",
+  "cover": "https://img.itch.zone/aW1nLzMxMTcyMjAxLnBuZw==/original/f7nqsI.png",
+  "tags": [
+   "3D",
+   "car",
+   "Godot",
+   "Horror",
+   "Low-poly",
+   "ps1",
+   "PSX (PlayStation)",
+   "Retro"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIwMzU2MS8zMTE3MjIwMy5wbmc=/original/i8lM1G.png"
+ },
+ {
+  "slug": "lofi-dread-free-psx-horror-sampler",
+  "title": "LO-FI DREAD Free Sampler – 15 PSX Horror Models, Textures & PS1 Shader [Godot 4]",
+  "desc": "Free PS1-style horror sampler: 15 low-poly models, 6 textures, 5 icons and a PSX shader. Godot 4 ready.",
+  "price": "free",
+  "cover": "https://img.itch.zone/aW1nLzMxMTY1MjQ1LnBuZw==/original/1z74Ur.png",
+  "tags": [
+   "3D",
+   "Asset Pack",
+   "free",
+   "Godot",
+   "Horror",
+   "Low-poly",
+   "ps1",
+   "PSX (PlayStation)"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTIwMjI4MS8zMTE2NjU3Ni5wbmc=/original/n9t%2BBx.png"
+ },
+ {
+  "slug": "psx-horror-textures",
+  "title": "PSX Horror Textures – 96 PS1 Textures (67 Seamless) [128px] + Godot Shader",
+  "desc": "96 PS1-style horror textures (67 seamless, 128px, 16 colours): mansion, hospital, sewer, gore, decals. Godot demo.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxMTU1NjE5LnBuZw==/original/sxw3zr.png",
+  "tags": [
+   "3D",
+   "Godot",
+   "Horror",
+   "Low-poly",
+   "ps1",
+   "PSX (PlayStation)",
+   "Retro",
+   "Survival Horror"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE1NDEwOC8zMTE1NTYyMi5wbmc=/original/3dboWw.png"
+ },
+ {
+  "slug": "zona-86-psx-post-soviet-survival-horror-asset-pack",
+  "title": "ZONA-86: PSX Post-Soviet Survival Horror Asset Pack",
+  "desc": "PS1-style low-poly 3D models, textures, UI, icons & sounds for Soviet / Chernobyl survival horror. Unity, Godot, Unreal",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMwODk3NTAwLnBuZw==/original/llhMQS.png",
+  "tags": [
+   "3D",
+   "Godot",
+   "Horror",
+   "Low-poly",
+   "Post-apocalyptic",
+   "ps1",
+   "PSX (PlayStation)",
+   "soviet"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE1OTMyOS8zMTE1MTU0NS5wbmc=/original/%2Fj7weF.png"
+ },
+ {
+  "slug": "ward-13-psx-abandoned-hospital-horror-asset-pack",
+  "title": "WARD 13 – PSX Abandoned Hospital Horror Asset Pack",
+  "desc": "Modular PS1-style abandoned hospital & asylum kit for retro horror. Godot 4 ready, GLB + OBJ, tested.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxMTQ4NjE2LnBuZw==/original/x5vy6W.png",
+  "tags": [
+   "3D",
+   "Godot",
+   "Horror",
+   "hospital",
+   "Low-poly",
+   "Modular",
+   "ps1",
+   "PSX (PlayStation)"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE2MzE4MS8zMTE0ODYyOC5wbmc=/original/NmQST0.png"
+ },
+ {
+  "slug": "hollow-pines-psx-haunted-forest-cabin-asset-pack",
+  "title": "HOLLOW PINES – PSX Haunted Forest & Cabin Horror Asset Pack",
+  "desc": "PS1-style haunted forest kit: pines, rocks, cabin, campsite, folk-horror props, night ambience. Godot 4 ready, tested.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxMTI3MjU2LnBuZw==/original/UnQCqx.png",
+  "tags": [
+   "3D",
+   "Forest",
+   "Godot",
+   "Horror",
+   "Low-poly",
+   "nature",
+   "ps1",
+   "PSX (PlayStation)"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE2MzIwOC8zMTEyNzI2Mi5wbmc=/original/hJzrH1.png"
+ },
+ {
+  "slug": "last-resort-psx-horror-weapons-items-ui-pack",
+  "title": "LAST RESORT – PSX Horror Weapons, Items & UI Pack",
+  "desc": "PS1-style horror weapons, survival items, inventory icons, VHS HUD and SFX. Godot 4 ready, GLB + OBJ, tested.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxMTI1ODIwLnBuZw==/original/M%2FZle7.png",
+  "tags": [
+   "3D",
+   "Godot",
+   "Graphical User Interface (GUI)",
+   "Horror",
+   "Icons",
+   "Low-poly",
+   "ps1",
+   "PSX (PlayStation)"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE2MzIzMS8zMTEyNTQ3MS5wbmc=/original/nZRoB6.png"
+ },
+ {
+  "slug": "shadow-systems-godot-4-survival-horror-systems-kit",
+  "title": "Shadow Systems — Godot 4 Survival Horror Systems Kit",
+  "desc": "Ten drop-in systems for Godot 4 survival horror: interaction, inventory, doors, flashlight, saves and more.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMxMTIyMzA1LnBuZw==/original/lke9XY.png",
+  "tags": [
+   "3D",
+   "Asset Pack",
+   "First-Person",
+   "Godot",
+   "Horror",
+   "inventory",
+   "Low-poly",
+   "PSX (PlayStation)"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE5NTYxOS8zMTE2MDQ1MS5wbmc=/original/fvZMzo.png"
+ },
+ {
+  "slug": "modern-hospital-clinic-tileset",
+  "title": "Modern Hospital & Clinic – Top-Down Tileset [16x16, Animated]",
+  "desc": "Modern hospital & clinic: 383 tiles & props, 51 animated, ambulance bay. Shadow/no-shadow, 16/32/48 px.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMwOTk0NDA2LnBuZw==/original/YjmYvP.png",
+  "tags": [
+   "16x16",
+   "Godot",
+   "hospital",
+   "medical",
+   "Modern",
+   "Pixel Art",
+   "RPG Maker",
+   "tiled"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE3NTkzMS8zMDk5NDQ0NC5wbmc=/original/t%2B%2F4pV.png"
+ },
+ {
+  "slug": "modern-supermarket-tileset",
+  "title": "Modern Supermarket & Mini-Mart – Top-Down Tileset [16x16, 80+ Icons]",
+  "desc": "Supermarket & mini-mart: 350 tiles & props, 47 animated, 81 bonus item icons. Shadow/no-shadow, 16/32/48 px.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMwOTk0ODIwLnBuZw==/original/mVu9Xk.png",
+  "tags": [
+   "16x16",
+   "Asset Pack",
+   "Godot",
+   "Modern",
+   "Pixel Art",
+   "RPG Maker",
+   "supermarket",
+   "Tileset"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE3NTk5MS8zMDk5NDgzNi5wbmc=/original/YqRYzB.png"
+ },
+ {
+  "slug": "subway-station-tileset",
+  "title": "Modern Subway & Train Station – Top-Down Tileset [16x16, Animated]",
+  "desc": "Subway & train station: 344 tiles & props, train exterior + interior, 58 animated. Shadow/no-shadow, 16/32/48 px.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMwOTk0ODc5LnBuZw==/original/e76CnK.png",
+  "tags": [
+   "16x16",
+   "city",
+   "Godot",
+   "Modern",
+   "Pixel Art",
+   "RPG Maker",
+   "subway",
+   "Tileset"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE3NjAwMi8zMDk5NDg5MS5wbmc=/original/K9nVbD.png"
+ },
+ {
+  "slug": "science-lab-tileset",
+  "title": "Science Lab – Top-Down Sci-Fi Lab Tileset [16x16, Animated]",
+  "desc": "16x16 top-down sci-fi lab: 282 tiles & props, 53 animated, clean + damaged. Shadow/no-shadow, 16/32/48 px.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMwOTUwNDI5LnBuZw==/original/lnaxOq.png",
+  "tags": [
+   "16x16",
+   "Godot",
+   "Horror",
+   "laboratory",
+   "Pixel Art",
+   "RPG Maker MZ",
+   "Sci-fi",
+   "Tileset"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE2ODY4Ni8zMDk1MDQ2Mi5wbmc=/original/K5yCcz.png"
+ },
+ {
+  "slug": "frostbrook-christmas-dlc",
+  "title": "Frostbrook Christmas DLC – Top-Down Christmas Tileset [16x16]",
+  "desc": "Christmas expansion for Frostbrook: market stalls, Santa's workshop, ice rink, animated lights. 16/32/48 px.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMwOTk0NzY4LnBuZw==/original/gBkkNH.png",
+  "tags": [
+   "16x16",
+   "Asset Pack",
+   "Christmas",
+   "Godot",
+   "Pixel Art",
+   "snow",
+   "Tileset",
+   "Top-Down"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE3NTk4NS8zMDk5NDc3Ny5wbmc=/original/puSQOg.png"
+ },
+ {
+  "slug": "frostbrook-snow-village-tileset",
+  "title": "Frostbrook – Snow Village Top-Down Tileset [16x16]",
+  "desc": "Cosy 16x16 winter village tileset: snow, frozen pond, log cabins + interiors. Shadow/no-shadow, 16/32/48 px.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMwOTUwMTQ3LnBuZw==/original/tsCjUu.png",
+  "tags": [
+   "16x16",
+   "Christmas",
+   "Godot",
+   "Pixel Art",
+   "RPG Maker MZ",
+   "snow",
+   "tiled",
+   "Tileset"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE2ODY0MC8zMDk1NDA5MC5wbmc=/original/Ikc2We.png"
+ },
+ {
+  "slug": "bakery-cafe-interiors",
+  "title": "Sugar & Sage – Bakery Café Interiors Tileset [16x16]",
+  "desc": "Cozy bakery café interior: 93 objects, chairs in 4 directions. Shadow/no-shadow, 16/32/48 px. Tiled, Godot, MZ.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMwOTk0NTk2LnBuZw==/original/wOqERq.png",
+  "tags": [
+   "16x16",
+   "Asset Pack",
+   "cafe",
+   "Godot",
+   "interior",
+   "Pixel Art",
+   "RPG Maker",
+   "Tileset"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE3NTk2Ni8zMTAwMjEwNC5wbmc=/original/p9WZpy.png"
+ },
+ {
+  "slug": "pixel-school-interiors",
+  "title": "Pixel School Interiors – Top-Down Tileset [16x16]",
+  "desc": "108 school objects + 90 floor & wall tiles: classroom, hallway, cafeteria, gym. Shadow/no-shadow, 16/32/48 px.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMwOTk0NzAwLnBuZw==/original/G6ecgK.png",
+  "tags": [
+   "16x16",
+   "Asset Pack",
+   "Godot",
+   "interior",
+   "Pixel Art",
+   "RPG Maker",
+   "school",
+   "Tileset"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE3NTk3Ny8zMDk5NDczMy5wbmc=/original/crmVa0.png"
+ },
+ {
+  "slug": "human-organs-pixel-art",
+  "title": "Human Organs – Pixel Art Anatomy Pack [28 Organs & Bones]",
+  "desc": "28 pixel-art organs & bones: healthy, diseased, damaged. 16/32/64 px + inventory icons. Godot, Unity, RPG Maker.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMwOTUwNTMyLnBuZw==/original/E91Vc7.png",
+  "tags": [
+   "2D",
+   "anatomy",
+   "Godot",
+   "Horror",
+   "Icons",
+   "medical",
+   "Pixel Art",
+   "Sprites"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE2ODcwMS8zMDk1MDU2MS5wbmc=/original/z98ev6.png"
+ },
+ {
+  "slug": "psx-human-organs",
+  "title": "PSX Human Organs – Low-Poly 3D Organ Pack [32 Models]",
+  "desc": "16 PS1-style low-poly human organs, healthy + damaged (32 models), plus jars & trays. GLB/OBJ/FBX + Godot shader.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMwOTU4MTAzLnBuZw==/original/m0BaY0.png",
+  "tags": [
+   "3D",
+   "anatomy",
+   "Godot",
+   "Horror",
+   "Low-poly",
+   "medical",
+   "ps1",
+   "PSX (PlayStation)"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE2OTkwMy8zMDk1ODE0MC5wbmc=/original/i3VYxh.png"
+ },
+ {
+  "slug": "psx-survival-horror-ui-kit",
+  "title": "PSX Survival Horror UI Kit – PS1 Menus, Inventory, HUD & 80 Icons",
+  "desc": "PS1-style survival horror UI for Godot, Unity & GameMaker: menus, inventory, ECG HUD, 80 icons, CRT/VHS.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMwODUwMDkyLnBuZw==/original/OQp9m6.png",
+  "tags": [
+   "Godot",
+   "Graphical User Interface (GUI)",
+   "Horror",
+   "Icons",
+   "Pixel Art",
+   "ps1",
+   "PSX (PlayStation)",
+   "Survival Horror"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE1MzYwNS8zMDg1MDEwMi5wbmc=/original/3uLJju.png"
+ },
+ {
+  "slug": "elemental-spells",
+  "title": "Elemental Spells – Pixel Art VFX: Fire, Ice & Lightning [15 effects]",
+  "desc": "15 pixel art spell effects: fire, ice and lightning projectiles, impacts, charges, area spells and status loops.",
+  "price": "$4.99",
+  "cover": "https://img.itch.zone/aW1nLzMwNzY0MzY3LnBuZw==/original/X75htd.png",
+  "tags": [
+   "2D",
+   "Animation",
+   "Asset Pack",
+   "Fantasy",
+   "Magic",
+   "Pixel Art",
+   "Sprites",
+   "vfx"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTEzOTI5MS8zMDc2NDM4NS5naWY=/original/ztM66J.gif"
+ },
+ {
+  "slug": "dungeon-warriors",
+  "title": "Dungeon Warriors – 10 Caped Pixel Art Characters [80x64]",
+  "desc": "10 caped fantasy heroes: warriors, assassins, mages and archers. 14 animations each, with effects and projectiles.",
+  "price": "$2.99",
+  "cover": "https://img.itch.zone/aW1nLzMwNzUyMzU0LnBuZw==/original/GS96Ks.png",
+  "tags": [
+   "2D",
+   "Animation",
+   "Asset Pack",
+   "Characters",
+   "Fantasy",
+   "Medieval",
+   "Pixel Art",
+   "Side Scroller"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTEzNzI3MC8zMDc1MjM3Mi5naWY=/original/eBaD07.gif"
+ },
+ {
+  "slug": "sleepless-girl",
+  "title": "Sleepless Girl – 32x32 Horror Pixel Art Character",
+  "desc": "Animated 32x32 girl with a teddy bear: 7 animations, 35 frames, left & right, JSON included.",
+  "price": "",
+  "cover": "https://img.itch.zone/aW1nLzMwNzA5Mzg0LnBuZw==/original/Vorl6R.png",
+  "tags": [
+   "2D",
+   "32x32",
+   "Animation",
+   "Asset Pack",
+   "Characters",
+   "Horror",
+   "Pixel Art",
+   "Sprites"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTEyOTg5Mi8zMDcwOTM5NS5naWY=/original/RAi63j.gif"
+ },
+ {
+  "slug": "psx-survival-horror-ui-kit-free-sample",
+  "title": "PSX Survival Horror UI Kit – Free Sample",
+  "desc": "Free PS1-style UI sample: Mansion menu widgets, 8 item icons, ECG monitor and a pixel font.",
+  "price": "free",
+  "cover": "https://img.itch.zone/aW1nLzMwODUxNTEwLnBuZw==/original/hnL9VS.png",
+  "tags": [
+   "free",
+   "Godot",
+   "Graphical User Interface (GUI)",
+   "Horror",
+   "Icons",
+   "Pixel Art",
+   "ps1",
+   "PSX (PlayStation)"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTE1MzgzNS8zMDg1MTUxMi5wbmc=/original/k6HE6C.png"
+ },
+ {
+  "slug": "elemental-spells-free-sample",
+  "title": "Elemental Spells Free Sample – Pixel Art Fire VFX [3 effects]",
+  "desc": "Free sample of Elemental Spells: a fireball, a fire explosion and a burning status loop in pixel art.",
+  "price": "free",
+  "cover": "https://img.itch.zone/aW1nLzMwNzY0NTE0LnBuZw==/original/hhcyC0.png",
+  "tags": [
+   "2D",
+   "Animation",
+   "Asset Pack",
+   "Fantasy",
+   "Magic",
+   "Pixel Art",
+   "Sprites",
+   "vfx"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTEzOTMxNS8zMDc2NDUyMS5naWY=/original/P4Blyb.gif"
+ },
+ {
+  "slug": "dungeon-warriors-free-sample",
+  "title": "Dungeon Warriors Free Sample – Caped Knight Pixel Art Character [80x64]",
+  "desc": "Free sample of Dungeon Warriors: the Crimson Knight with all 14 animations, effects and Aseprite source.",
+  "price": "free",
+  "cover": "https://img.itch.zone/aW1nLzMwNzUyNjM5LnBuZw==/original/YK3JUl.png",
+  "tags": [
+   "2D",
+   "Animation",
+   "Asset Pack",
+   "Characters",
+   "Fantasy",
+   "Medieval",
+   "Pixel Art",
+   "Side Scroller"
+  ],
+  "cls": "asset pack",
+  "shot": "https://img.itch.zone/aW1hZ2UvNTEzNzMzNi8zMDc1MjY0Ny5naWY=/original/CZtYJn.gif"
+ }
+]
