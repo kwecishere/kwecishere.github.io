@@ -12,7 +12,7 @@ SITE = 'https://kwecishere.github.io'
 STORE = 'https://chuckyassets.itch.io'
 BUNDLE = 'all-in-one-bundle'
 TODAY = datetime.date.today().isoformat()
-N_BUNDLE = 37   # packs inside the All-in-One Bundle
+N_BUNDLE = 45   # packs inside the All-in-One Bundle
 E = html.escape
 
 CAT = json.load(open(os.path.join(ROOT, '_build', 'catalog.json')))
