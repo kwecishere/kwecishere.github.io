@@ -35,7 +35,7 @@ COLLECTIONS = [
                   'zona-86-psx-post-soviet-survival-horror-asset-pack', 'last-resort-psx-horror-weapons-items-ui-pack',
                   'psx-horror-textures', 'psx-survival-horror-ui-kit', 'psx-human-organs',
                   'shadow-systems-godot-4-survival-horror-systems-kit', 'lofi-dread-free-psx-horror-sampler',
-                  'psx-survival-horror-ui-kit-free-sample', 'psx-survival-horror-ui-kit-vol2', 'dead-mall-free-sample'],
+                  'psx-survival-horror-ui-kit-free-sample', 'psx-survival-horror-ui-kit-vol2', 'dead-mall-free-sample', 'silent-night-psx-christmas-horror', 'cold-storage-psx-morgue-autopsy', 'silent-night-free-sample', 'cold-storage-free-sample'],
         'faq': [
             ('Which engines do the PSX horror packs support?', 'Godot 4 gets a ready project with demo levels and the PSX shader. The GLB and OBJ models import into Unity, Unreal Engine 5 and Blender; textures are plain PNG atlases.'),
             ('Do the packs share the same scale and style?', 'Yes. All LO-FI DREAD packs use real-world metres, a 2 m modular grid and the same PS1 shader, so pieces from different packs fit together.'),
@@ -55,7 +55,7 @@ COLLECTIONS = [
         'slugs': ['modern-hospital-clinic-tileset', 'modern-supermarket-tileset', 'subway-station-tileset', 'science-lab-tileset',
                   'modern-police-station-jail-tileset', 'modern-airport-terminal-tileset', 'modern-museum-gallery-tileset',
                   'modern-space-station-tileset', 'modern-gym-fitness-tileset', 'modern-town-characters',
-                  'space-crew-aliens-characters', 'modern-town-vehicles-streets', 'modern-town-tileset-free-sample',
+                  'space-crew-aliens-characters', 'modern-town-vehicles-streets', 'modern-town-tileset-free-sample', 'modern-home-apartment-tileset', 'modern-town-characters-vol2', 'modern-home-apartment-free-sample', 'modern-town-characters-vol2-free-sample',
                   'modern-gym-fitness-free-sample', 'space-crew-aliens-free-sample'],
         'faq': [
             ('What tile size are the Modern Town tilesets?', 'They are drawn at 16x16 and exported at 16, 32 and 48 px with nearest-neighbour scaling, so they stay crisp. Use the 48 px sheets for RPG Maker MZ.'),
@@ -94,7 +94,7 @@ COLLECTIONS = [
         'slugs': ['frostbrook-snow-village-tileset', 'frostbrook-christmas-dlc', 'frostbrook-town-interiors-dlc',
                   'bakery-cafe-interiors', 'pixel-school-interiors', 'human-organs-pixel-art', 'elemental-spells',
                   'dungeon-warriors', 'sleepless-girl', 'frostbrook-snow-village-free-sample', 'elemental-spells-free-sample',
-                  'dungeon-warriors-free-sample', 'frostbrook-villagers', 'frostbrook-town-interiors-free-sample'],
+                  'dungeon-warriors-free-sample', 'frostbrook-villagers', 'frostbrook-town-interiors-free-sample', 'winter-christmas-bundle', 'cozy-pixel-ui-kit', 'cozy-pixel-ui-kit-free-sample'],
         'faq': [
             ('Do the Frostbrook DLCs need the base pack?', 'No. The Christmas DLC and the Town Interiors DLC work on their own, but they share the palette and grid of Frostbrook Snow Village so everything fits together.'),
             ('Which engines are supported?', 'Tilesets include Tiled, Godot 4 and RPG Maker MZ files; sprites and VFX are PNG sheets that work in Unity, GameMaker and any 2D engine.'),
